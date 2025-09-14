@@ -25,11 +25,6 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
       <h3 align="center">
         <a href="https://github.com/Enilsonn/CRUD-Postgres" target="_blank">CRUD em Go com Postgres</a>
       </h3>
-      <p align="center">
-        <a href="https://github.com/Enilsonn/CRUD-Postgres" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
       <p><strong>Tecnologias:</strong> Go, PostgreSQL.</p>
       <p>Um CRUD funcional para demonstrar a integração completa entre Go e um banco de dados relacional.</p>
     </td>
@@ -38,11 +33,6 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
       <h3 align="center">
         <a href="https://github.com/Enilsonn/Chat-TCP-Go" target="_blank">Chat TCP em Go</a>
       </h3>
-      <p align="center">
-        <a href="https://github.com/Enilsonn/Chat-TCP-Go" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
       <p><strong>Tecnologias:</strong> Go, Networking (TCP).</p>
       <p>Aplicação de chat cliente-servidor via terminal para explorar os fundamentos de comunicação em rede com Go.</p>
     </td>
