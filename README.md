@@ -26,6 +26,12 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+<p>
+  🔭 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento backend com Go, explorando microerviços e soluções para a nuvem.<br>
+  🌱 Estou aprendendo mais sobre Kubernetes e Testes de Performance.<br>
+  💬 Me chame para falar sobre tecnologia, backend, e animes!<br>
+  📫 Como me encontrar: [enilsonlima139@gmail.com]
+</p>
 
 <!--
 **Enilsonn/Enilsonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
