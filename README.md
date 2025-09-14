@@ -7,6 +7,11 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilsonn&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1" />
 
  </div> 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 🔧 Linguagens e Tecnologias
 
@@ -17,10 +22,6 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Linguagem C" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Linguagem C++" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />   
-</div>
-
-<div align="center">
-  <img src="https://github.com/enilsonn/enilsonn/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
 ## 📫 Entre em contato
