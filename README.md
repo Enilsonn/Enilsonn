@@ -6,9 +6,13 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
   <img src="https://github-readme-stats.vercel.app/api?username=enilsonn&theme=github_dark&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=1" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilsonn&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1" />
 
- </div> 
 <div align="center">
-  <img src="https://github.com/enilsonn/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enilsonn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilsonn&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/enilsonn/enilsonn/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
 ## 🔧 Linguagens e Tecnologias
@@ -22,11 +26,6 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />   
 </div>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enilsonn&theme=onedark&column=7" alt="enilsonn" />
-  </a>
-</p>
 
 ## 📫 Entre em contato
 
@@ -43,12 +42,6 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
   </a>
 </div>
 
-### 🌐 Conecte-se comigo
-
-<p align="left">
-<a href="https://linkedin.com/in/seu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-usuario" height="30" width="40" /></a>
-<a href="mailto:seu-email@exemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="seu-email" height="30" width="40" /></a>
-</p>
 
 <!--
 **Enilsonn/Enilsonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
