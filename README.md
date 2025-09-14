@@ -4,8 +4,7 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=enilsonn&theme=github_dark&show_icons=true&rank_icon=github&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilsonn&layout=compact&theme=github_dark&hide_border=true" />
-</div> 
+ </div> 
 
 ## 🔧 Linguagens e Tecnologias
 
