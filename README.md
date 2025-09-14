@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá! 👋
 
 Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciência da Computação na UFPB.
 
