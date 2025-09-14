@@ -19,6 +19,10 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />   
 </div>
 
+<div align="center">
+  <img src="https://github.com/enilsonn/enilsonn/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
+
 ## 📫 Entre em contato
 
 <p>
