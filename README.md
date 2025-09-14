@@ -37,6 +37,36 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
       <p>Aplicação de chat cliente-servidor via terminal para explorar os fundamentos de comunicação em rede com Go.</p>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Enilsonn/Socket_UDP" target="_blank">Comunicação com Socket UDP</a>
+      </h3>
+      <p><strong>Tecnologias:</strong> Go, Networking (UDP).</p>
+      <p>Implementação de um cliente e servidor para comunicação em rede utilizando o protocolo UDP, focando na transmissão de dados sem conexão.</p>
+    </td>
+    
+  <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Enilsonn/PDI-Processamento-de-Imagens" target="_blank">Processamento de Imagens em Python</a>
+      </h3>
+      <p><strong>Tecnologias:</strong> Python, NumPy, Matplotlib.</p>
+      <p>Projetos de Processamento Digital de Imagens, aplicando filtros e técnicas de manipulação com NumPy e Matplotlib.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Enilsonn/SudokuValidationWithThreads" target="_blank">Validador de Sudoku com Threads</a>
+      </h3>
+      <p><strong>Tecnologias:</strong> C, Multithreading (pthreads).</p>
+      <p>Um programa em C que valida soluções de Sudoku, utilizando threads para verificar simultaneamente as linhas, colunas e sub-grades 3x3.</p>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
 </table>
 
 
