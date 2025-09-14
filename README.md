@@ -30,7 +30,7 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
       <br />
       <p align="center">
         <a href="https://github.com/Enilsonn/CRUD-Postgres" target="_blank">
-          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p><strong>Tecnologias:</strong> Go, PostgreSQL.</p>
@@ -46,7 +46,7 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
       <br />
       <p align="center">
         <a href="https://github.com/Enilsonn/Chat-TCP-Go" target="_blank">
-          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p><strong>Tecnologias:</strong> Go, Networking (TCP).</p>
