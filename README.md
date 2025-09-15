@@ -1,4 +1,4 @@
-# Olá! 👋
+  # Olá! 👋
 
 Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciência da Computação na UFPB.
 
@@ -58,8 +58,8 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
         <a href="https://github.com/Enilsonn/PDI-Processamento-de-Imagens" target="_blank">Processamento de Imagens em Python</a>
       </h3>
       <br>
-      <p><strong>Tecnologias:</strong> Python, NumPy, Matplotlib.</p>
-      <p>Projetos de Processamento Digital de Imagens, aplicando filtros e técnicas de manipulação com NumPy e Matplotlib.</p>
+      <p><strong>Tecnologias:</strong> Go.</p>
+      <p>Projetos de Processamento Digital de Imagens, aplicando filtros, extentão de pixels e técnicas de histogramas local e global.</p>
       <br>
     </td>
   </tr>
