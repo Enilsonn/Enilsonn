@@ -73,7 +73,18 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
       <p><strong>Tecnologias:</strong> C, Multithreading (pthreads).</p>
       <p>Um programa em C que valida soluções de Sudoku, utilizando threads para verificar simultaneamente as linhas, colunas e sub-grades 3x3.</p>
       <br>
+  </td>
+
+  <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Enilsonn/go-deployer" target="_blank">Deploy automatizado em Go</a>
+      </h3>
+      <br>
+      <p><strong>Tecnologias:</strong> Go.</p>
+      <p>Um deployer simples em Go que automatiza a execução de comandos em servidores remotos via SSH, com base em um arquivo deploy.yaml.</p>
+      <br>
     </td>
+  </tr>
     <td width="50%" valign="top">
       </td>
   </tr>
