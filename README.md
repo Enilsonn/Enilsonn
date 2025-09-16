@@ -55,7 +55,7 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
     
   <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/Enilsonn/PDI-Processamento-de-Imagens" target="_blank">Processamento de Imagens em Python</a>
+        <a href="https://github.com/Enilsonn/PDI-Processamento-de-Imagens" target="_blank">Processamento de Imagens</a>
       </h3>
       <br>
       <p><strong>Tecnologias:</strong> Go.</p>
