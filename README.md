@@ -77,11 +77,11 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Enilson Lima, estudande de Ciênc
 
   <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/Enilsonn/go-deployer" target="_blank">Deploy automatizado em Go</a>
+        <a href="https://github.com/Enilsonn/to-do-list-go" target="_blank">Go To-Do List API</a>
       </h3>
       <br>
       <p><strong>Tecnologias:</strong> Go.</p>
-      <p>Um deployer simples em Go que automatiza a execução de comandos em servidores remotos via SSH, com base em um arquivo deploy.yaml.</p>
+      <p>Uma API RESTful simples e escalável para gerenciamento de tasks, construída em Go (Golang) com arquitetura limpa, repositórios, DI e roteamento eficiente utilizando Chi.</p>
       <br>
     </td>
   </tr>
